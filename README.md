@@ -9,4 +9,5 @@ require_once 'Facify.php';
 $image = 'sample.jpg';
 $faceify = new Facify();
 $faceify->setImage($image);
+
 $faceify->draw();
