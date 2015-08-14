@@ -1,4 +1,4 @@
-Faceify!!!111
+Faceify!!!1111
 ===========
 PHP Class to convert a photo of a person into a unique style JPEG image.
 
