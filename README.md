@@ -10,4 +10,4 @@ $image = 'sample.jpg';
 $faceify = new Facify();
 $faceify->setImage($image);
 
-$faceify->draw();
+$faceify->draw();;
