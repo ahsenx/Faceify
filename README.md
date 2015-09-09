@@ -2,7 +2,7 @@ Faceify!@!!
 ===========
 PHP Class to convert a photo of a person into a unique style JPEG image.
 
-Example@!11
+Example@!111
 ========
 <?php
 require_once 'Facify.php';
